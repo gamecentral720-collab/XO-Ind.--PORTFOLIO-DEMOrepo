@@ -395,7 +395,7 @@ For security issues or questions:
 **Created**: November 10, 2025
 **Version**: 1.0
 **Classification**: Internal Use - Proprietary Architecture
-**Owner**: YOUR IP - All Rights Reserved
+**Owner**: Karina (Legally: Andrew) Johnson / katXO (org) IP - All Rights Reserved
 
 ---
 
@@ -414,3 +414,4 @@ This is enterprise-grade security architecture. You now have:
 
 *Generated with ❤️ by your AI co-pilot*
 *Keep building amazing things.*
+
