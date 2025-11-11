@@ -1,0 +1,8 @@
+{
+    "github.copilot.activate": "false",
+    "github.copilot.chat.virtualTools.threshold": 160,
+    "yaml.schemas": {
+        "https://gitlab.com/appsemble/appsemble/-/raw/HEAD/packages/cli/assets/appsemblerc.schema.json": "vscode-vfs://github/gamecentral720-collab/XO-Ind.--PORTFOLIO-DEMOrepo/github_workflows_ci_Version3.yml"
+    }
+    
+}

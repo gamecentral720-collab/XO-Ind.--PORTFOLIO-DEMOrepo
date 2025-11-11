@@ -1,12 +1,56 @@
 {
 	"version": "2.0.0",
+	"tasks":
+
+		type":array
+		 "array" ,[ "cmake"],
+		"Label":, *Make:, build"] ,
+		"command": "build",
+}						]
+		{
+	]	"type": "cmake",
+		"label": "CMake: build",
+		{
+			"version": "2.0.0",
+			"tasks": [
+				{
+					"label": "My Task",
+					"command": "echo hello",
+					"type": "shell",
+					"args": [],
+					"problemMatcher": [
+						"$tsc"
+					],
+					"presentation": {
+						"reveal": "always"
+					},
+					"group": "build"
+				}
+			]
+		}type": "build", #"command": "build",	
+		"problemMatcher": [],
+		"detail": "CMake template build task
+		{"type": "cmake",
+		"label": "CMake: workflow",
+		"command": "workflow",
+		"problemMatcher": [],
+		"detail": "CMake template workflow task"
+
+}{
+	"version": "2.0.0",
 	"tasks": [
 		{
-			"type": "cmake",
-			"label": "CMake: build",
-			"command": "build",
-			"problemMatcher": [],
-			"detail": "CMake template build task"
+			"label": "My Task",
+			"command": "echo hello",
+			"type": "shell",
+			"args": [],
+			"problemMatcher": [
+				"$tsc"
+			],
+			"presentation": {
+				"reveal": "always"
+			},
+			"group": "build"
 		}
 	]
 }
